@@ -1,0 +1,18 @@
+.second__album-cover {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 50px 5px;
+}
+.second__album img {
+  margin-top: 5px;
+  border-radius: 25px;
+  width: 300px;
+  height: 300px;
+  box-shadow: 10px 10px 50px #d6c69a;
+}
+.second__album-name {
+  margin: 5px 0;
+  line-height: 1.7;
+  text-align: center;
+}
